@@ -10,3 +10,4 @@ for i in $arr
 do 
       echo "num $i"
 done
+asdfk
